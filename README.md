@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [My site](https://www.poorna.dev)
 - ⚡ Fun fact: I'm a med student too. 
 
-> PS: If I tell you I'm busy, I'm just lazy XD
+![Me as a doctor](https://res.cloudinary.com/poorna/image/upload/v1591896253/doctor/13.png)

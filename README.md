@@ -1,15 +1,11 @@
-## This is @neutralboy here or POORNA.
+![Me as a doctor](https://res.cloudinary.com/poorna/image/upload/c_scale,h_300/v1591896253/doctor/13.png)
+## Hi I'm Poornachandra Vivekananda.
 
 <!--
 **neutralboy/neutralboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+I'm a medical student out of Bengaluru, India currently honing my skills in medicine & surgery and experimenting in cloud computing and devOps. This repo contains my open-source contributions and all my failed experiments to make things work.
 
-Here are some ideas to get you started:
+If you have anything interesting to work in healthcare let me know! Leave an email at hey[at]poorna.dev
 
-- 🌱 I’m currently learning RUST ❤️
-- 👯 I’m looking to collaborate on anything that might help improve the healthcare situation in India
-- 💬 Ask me about React and Rust(Still working on it xD) and Python (Kinda ?)
-- 📫 How to reach me: [My site](https://www.poorna.dev)
-- ⚡ Fun fact: I'm a med student too. 
-
-![Me as a doctor](https://res.cloudinary.com/poorna/image/upload/v1591896253/doctor/13.png)
+[My blog](https://poorna.dev) | [LinkedIn](https://www.linkedin.com/in/poornachandra-v/)
